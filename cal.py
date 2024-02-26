@@ -1,5 +1,5 @@
 while True:
-    num = input("Enter first number ('exit' to quite'):")
+    num = input("Enter first number or 'exit' to quite':")
     if num.lower()=="exit":
         print("Exiting the Screen")
         break
